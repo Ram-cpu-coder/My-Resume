@@ -130,6 +130,10 @@ body{
     text-decoration: none;
     color: black;
 }
+.work-experience-right-container a:hover{
+    text-decoration: none;
+    color: blue;
+}
 
 .work-experience-right-container ul{
     margin-left: 20px;
